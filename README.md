@@ -6,11 +6,15 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 
 ## Download
 
-v2.0 for Main(Japan) Server
-https://www.dropbox.com/s/90ol1x02r1ez46n/mltdkei_v20.7z?dl=0
+v2.01 for Main(Japan) Server
+https://www.dropbox.com/s/4r6rwb287uaj3zf/mltdkei_v201.7z?dl=0
 
-v2.0 for Global(Korea) Server
-https://www.dropbox.com/s/ayldb64kgw1wqzt/mltdkei_v20_kr.7z?dl=0
+v2.01 for Global(Korea) Server
+https://www.dropbox.com/s/qofc3v6drtfx43p/mltdkei_v201_kr.7z?dl=0
+
+## How to Update from older version
+
+Copy mltdkei_info.txt and mltdkei_idoldata.sqlite (if Global(Korea) version: mltdkei_info_kr.txt and mltdkei_idoldata_kr.sqlite) from older version folder, and paste them on newer version folder. Unless you will lose your possession lists and you have to update it again.
 
 ## How to Use
 
@@ -22,7 +26,7 @@ Click "Update DB" button on the upper right side. You will see new window which 
 
 ### Update Possession Lists
 
-Click "Update Idol List" button on the upper right side. You will see new window which has several buttons. When you click one of those buttons, the program will load Idol Card informations with photos. (For example, if you click "SSR-Pr" button, the program will load "SSR rarity Princess type" Idol Card informations.) Configure informations with combobox and click "Save" button to save configurations. Data will be written on "mltdkei_info.txt" (if global(Korea) version: on "mltdkei_info_kr.txt"). Do not forget to click "Save" button before closing windows, or you will lose your configurations.
+Click "Update Idol List" button on the upper right side. You will see new window which has several buttons. When you click one of those buttons, the program will load Idol Card informations with photos. (For example, if you click "SSR-Pr" button, the program will load "SSR rarity Princess type" Idol Card informations.) Configure informations with combobox and click "Save" button to save configurations. Data will be written on "mltdkei_info.txt" (if Global(Korea) version: on "mltdkei_info_kr.txt"). Do not forget to click "Save" button before closing windows, or you will lose your configurations.
 
 ### Configure Main Setting
 
