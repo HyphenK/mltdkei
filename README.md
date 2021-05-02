@@ -9,8 +9,9 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 v2.01 for Main(Japan) Server
 https://www.dropbox.com/s/4r6rwb287uaj3zf/mltdkei_v201.7z?dl=0
 
-v2.01 for Global(Korea) Server
-https://www.dropbox.com/s/qofc3v6drtfx43p/mltdkei_v201_kr.7z?dl=0
+v2.02 for Global(Korea) Server
+https://www.dropbox.com/s/8yxuxdj1npksy9u/mltdkei_v202_kr.7z?dl=0
+(Bugfix: "Unable to update Card DB" fixed)
 
 ## How to Update from older version
 
