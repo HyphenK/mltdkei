@@ -6,11 +6,11 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 
 ## Download
 
-v2.1 for Main(Japan) Server / 일본 본섭용
-https://www.dropbox.com/s/wrg00he9h5sw7br/mltdkei_v21M.7z?dl=0
+v2.11 for Main(Japan) Server / 일본 본섭용
+https://www.dropbox.com/s/mgzqldrtz2calh1/mltdkei_v211M.7z?dl=0
 
-v2.1 for Global(Korea) Server / 한국 글섭용
-https://www.dropbox.com/s/uk181qvy5h73lg6/mltdkei_v21M_kr.7z?dl=0
+v2.11 for Global(Korea) Server / 한국 글섭용
+https://www.dropbox.com/s/fvh40bbnmjyv2lm/mltdkei_v211M_kr.7z?dl=0
 
 ### New Features
 
@@ -24,7 +24,7 @@ Calculation Presets (Description is followed.) / 분석 프리셋 제공 (밑에
 
 ### Bug Fix
 
-Syntax Error while updating Idol DB is now fixed. / Idol DB 업데이트 하다가 프로그램 멈추던 버그 수정
+Difficulty setting bug fixed / MM 이외의 난이도에서의 분석 오류 버그 수정
 
 ## How to Use / 사용 방법
 
