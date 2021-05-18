@@ -26,6 +26,10 @@ Calculation Presets (Description is followed.) / 분석 프리셋 제공 (밑에
 
 Difficulty setting bug fixed / MM 이외의 난이도에서의 분석 오류 버그 수정
 
+### Notice
+
+The exe file can be detected malicious by some of antivirus software, including windows defender. It's false positive, so please don't be aware. / 윈도우 디펜더를 포함한 몇몇 백신들이 exe 실행파일을 멀웨어라고 진단하는 경우가 있습니다만, 오진이므로 안심하고 사용해 주세요.
+
 ## How to Use / 사용 방법
 
 ### How to Update from older version / 이전 버전에서 업데이트하기
