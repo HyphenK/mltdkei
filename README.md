@@ -28,7 +28,7 @@ https://www.dropbox.com/s/z22koorn3j72345/mltdkei_v212M_kr.py?dl=0
 
 ### New Features
 
-Faster Calculation (up to 3x faster than before) / 분석 속도 개선 (이번보다 최대 3배 빨라짐)
+Faster Calculation (up to 3x faster than before) / 분석 속도 개선 (이전 버전보다 최대 3배 빨라짐)
 
 ### Bug Fix
 
@@ -41,6 +41,8 @@ The exe file can be detected malicious by some of antivirus software, including 
 ### Others
 
 This program uses data from https://mltd.matsurihi.me/cards and https://imasml-theater-wiki.gamerch.com/%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7
+
+이 프로그램은 위에 적어놓은 두 사이트의 데이터를 사용합니다.
 
 ## How to Use / 사용 방법
 
