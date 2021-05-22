@@ -6,25 +6,19 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 
 ## Download
 
-v2.11 for Main(Japan) Server / 일본 본섭용
-https://www.dropbox.com/s/mgzqldrtz2calh1/mltdkei_v211M.7z?dl=0
+v2.12 for Main(Japan) Server / 일본 본섭용
+https://www.dropbox.com/s/0umu3in8td0qkfq/mltdkei_v212M.7z?dl=0
 
-v2.11 for Global(Korea) Server / 한국 글섭용
-https://www.dropbox.com/s/fvh40bbnmjyv2lm/mltdkei_v211M_kr.7z?dl=0
+v2.12 for Global(Korea) Server / 한국 글섭용
+https://www.dropbox.com/s/26flzyt41xk55pz/mltdkei_v212M_kr.7z?dl=0
 
 ### New Features
 
-Support Multiprocessing (CPU with 4 or more threads is recommended for faster calculation.) / 멀티프로세싱 지원 (4스레드 이상의 CPU 이용 시 더욱 빠른 계산 가능)
-
-Support Rearranging without calculating again / 계산 다시 돌릴 필요 없이 순서 재배열 가능
-
-Compact GUI / 이전 버전보다 작고 깔끔해진 GUI
-
-Calculation Presets (Description is followed.) / 분석 프리셋 제공 (밑에 설명 있음)
+Faster Calculation (up to 3x faster than before) / 분석 속도 개선 (이번보다 최대 3배 빨라짐)
 
 ### Bug Fix
 
-Difficulty setting bug fixed / MM 이외의 난이도에서의 분석 오류 버그 수정
+[KR] 리더 보상 SR 카드 관련 버그 수정
 
 ### Notice
 
