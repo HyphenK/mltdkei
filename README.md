@@ -6,11 +6,25 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 
 ## Download
 
+### Exe version / Exe 파일
+
 v2.12 for Main(Japan) Server / 일본 본섭용
 https://www.dropbox.com/s/0umu3in8td0qkfq/mltdkei_v212M.7z?dl=0
 
 v2.12 for Global(Korea) Server / 한국 글섭용
 https://www.dropbox.com/s/26flzyt41xk55pz/mltdkei_v212M_kr.7z?dl=0
+
+### Py version / Py 파일
+
+Python 3.9 or above is required. / Python 3.9 이상의 버전이 필요합니다.
+
+v2.12 for Main(Japan) Server / 일본 본섭용
+https://www.dropbox.com/s/pa7qivwswyecob3/mltdkei_v212M.py?dl=0
+
+v2.12 for Global(Korea) Server / 한국 글섭용
+https://www.dropbox.com/s/z22koorn3j72345/mltdkei_v212M_kr.py?dl=0
+
+## Information
 
 ### New Features
 
