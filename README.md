@@ -8,8 +8,8 @@ Automatic Deck Making, Score Calculating and Deck Recommanding for higher High S
 
 ### Exe version / Exe 파일
 
-v2.12 for Main(Japan) Server / 일본 본섭용
-https://www.dropbox.com/s/0umu3in8td0qkfq/mltdkei_v212M.7z?dl=0
+v2.13 for Main(Japan) Server / 일본 본섭용
+https://www.dropbox.com/s/5t74gdledo6hr2t/mltdkei_v213M.7z?dl=0
 
 v2.12 for Global(Korea) Server / 한국 글섭용
 https://www.dropbox.com/s/26flzyt41xk55pz/mltdkei_v212M_kr.7z?dl=0
@@ -18,7 +18,10 @@ https://www.dropbox.com/s/26flzyt41xk55pz/mltdkei_v212M_kr.7z?dl=0
 
 Python 3.9 or above is required. / Python 3.9 이상의 버전이 필요합니다.
 
-v2.12 for Main(Japan) Server / 일본 본섭용
+v2.13 for Main(Japan) Server / 일본 본섭용
+https://www.dropbox.com/s/un417d4pwyk4xs9/mltdkei_v213M.py?dl=0
+
+v2.12 [Legacy] for Main(Japan) Server / 일본 본섭용
 https://www.dropbox.com/s/pa7qivwswyecob3/mltdkei_v212M.py?dl=0
 
 v2.12 for Global(Korea) Server / 한국 글섭용
@@ -28,11 +31,13 @@ https://www.dropbox.com/s/z22koorn3j72345/mltdkei_v212M_kr.py?dl=0
 
 ### New Features
 
-Faster Calculation (up to 3x faster than before) / 분석 속도 개선 (이전 버전보다 최대 3배 빨라짐)
+[JP] Added 0.1%, 20% Score / 0.1%, 20% 스코어 추가
+[JP] Added "Before S.A Score" (Before "Special Appeal Note" Score) / "Before S.A Score" (스페셜 노트 직전 스코어) 추가
 
 ### Bug Fix
 
-[KR] 리더 보상 SR 카드 관련 버그 수정
+[JP] Photo Loading Bug Fixed / 사진 로딩할 때 프리징에 빠지는 버그 수정
+[JP] Minor Bug Fix / 몇몇 작은 버그 수정
 
 ### Notice
 
