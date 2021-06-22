@@ -1,4 +1,12 @@
-# MLTD Deck Analyzer
+# MLTD Deck Analyzer (Archived)
+
+## Notice
+
+This version will not work properly because of new leader skills and new skills which are going to be added at 4th Anniversary of MLTD. Please update program to newer version at here. https://github.com/HyphenK/mltdkei_v3
+
+이거 리더스킬 추가랑 스킬 추가 때문에 4주년/글섭 2주년 뒤로는 제대로 작동 안 될 겁니다. 여기서 새로운 버전을 받아주세요. https://github.com/HyphenK/mltdkei_v3
+
+## Main
 
 for THE iDOLM@STER MILLION LIVE! THEATER DAYS / MLTD // アイドルマスター ミリオンライブ！ シアターデイズ / ミリシタ // 아이돌 마스터 밀리언 라이브! 시어터 데이즈 / 밀리시타
 
